@@ -33,5 +33,10 @@ header .header_left p{
     header .header_left p{
         margin:2rem auto 4rem;
     }
+
+    .lucas{
+        margin: auto;
+        margin-right: 80px;
+    }
 }
 
